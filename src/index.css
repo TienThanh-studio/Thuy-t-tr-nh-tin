@@ -5,12 +5,15 @@
   --font-lora: "Lora", Georgia, serif;
   --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --font-calligraphy: "Charm", "Dancing Script", Georgia, serif;
+  --font-script: "Dancing Script", "Charm", cursive;
 }
 
 @layer base {
   html {
     font-family: var(--font-sans);
     scroll-behavior: smooth;
+    background-color: #FAF6EE;
   }
 
   h1, h2, h3, .font-display {
@@ -21,4 +24,28 @@
   .font-prose {
     font-family: var(--font-lora);
   }
+
+  .font-calligraphy {
+    font-family: var(--font-calligraphy);
+  }
+
+  .font-script {
+    font-family: var(--font-script);
+  }
+}
+
+/* Hiệu ứng nền giấy mỹ thuật kem ấm (#FAF6EE) với vân giấy nhẹ tự nhiên */
+.bg-paper-grain {
+  background-color: #FAF6EE;
+  background-image:
+    radial-gradient(rgba(139, 30, 36, 0.03) 1px, transparent 0),
+    radial-gradient(rgba(180, 83, 9, 0.035) 1px, #FAF6EE 0);
+  background-size: 28px 28px;
+  background-position: 0 0, 14px 14px;
+}
+
+/* Khung viền kép đặc trưng của báo tường truyền thống */
+.wall-newspaper-frame {
+  border: 1px solid #D5CBB8;
+  box-shadow: inset 0 0 0 4px #FAF6EE, inset 0 0 0 5px #E2D9C5;
 }

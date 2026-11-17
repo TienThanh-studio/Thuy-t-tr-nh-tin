@@ -9,8 +9,8 @@ const ARTICLES = [
     category: 'Tản văn',
     title: 'Màu Phấn Trắng Và Những Mùa Thu Đi Qua Mái Tóc Thầy',
     subtitle: 'Tản văn đạt giải Nhất cuộc thi viết Tri ân Thầy Cô cấp Trường năm học 2026',
-    author: 'Trần Ngọc Bảo Châu',
-    authorRole: 'Học sinh Lớp 12A1',
+    author: 'Đặng Thảo Ngọc',
+    authorRole: 'Học sinh Lớp 12 Anh 2',
     date: '15/11/2026',
     readTime: '5 phút đọc',
     excerpt:
@@ -48,7 +48,7 @@ const ARTICLES = [
     title: 'Lời Dặn Dò Cuối Trang Vở Nháp Và Bài Học Làm Người',
     subtitle: 'Hồi ức nhỏ về người thầy dạy Toán nghiêm khắc nhưng giàu tình thương',
     author: 'Nguyễn An Minh',
-    authorRole: 'Trưởng nhóm Bút Trẻ Mùa Thu',
+    authorRole: 'Trưởng nhóm 1',
     date: '16/11/2026',
     readTime: '4 phút đọc',
     excerpt:
