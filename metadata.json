@@ -1,0 +1,6 @@
+{
+  "name": "Chuyến Đò Tri Thức — Báo Tường Điện Tử 20/11",
+  "description": "Báo tường điện tử chào mừng Ngày Nhà giáo Việt Nam 20/11: Lời ngỏ tri ân, sáng tác thơ văn, góc ảnh kỷ niệm, giai điệu mái trường và lưu bút học trò.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
