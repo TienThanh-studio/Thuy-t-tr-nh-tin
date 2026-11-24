@@ -112,15 +112,3 @@ Nếu bạn nộp thư mục tĩnh (`index.html`, `style.css`, `script.js`) lên
    > *Your site is live at `https://<ten-tai-khoan>.github.io/<ten-repo>/`*
 6. Sao chép đường link này để nộp bài kèm với tệp `index.html`.
 
----
-
-## 6. Thông tin Nhóm Thực Hiện & Liên Hệ
-
-- **Nhóm thực hiện:** Nhóm Bút Trẻ Mùa Thu — Tập thể Lớp 12A1
-- **Danh sách thành viên & Email đại diện:**
-  - **Nguyễn An Minh** (Trưởng nhóm) — [nguyenan20062000@gmail.com](mailto:nguyenan20062000@gmail.com)
-  - **Trần Ngọc Bảo Châu** (Phó nhóm) — [baochau.12a1.editorial@edu.vn](mailto:baochau.12a1.editorial@edu.vn)
-  - **Lê Hoàng Minh Khôi** (Sáng tác Thơ & Văn) — [minhkhoi.literature@edu.vn](mailto:minhkhoi.literature@edu.vn)
-  - **Phạm Hà Phương Linh** (Nhiếp ảnh & Góc ảnh) — [phuonglinh.visuals@edu.vn](mailto:phuonglinh.visuals@edu.vn)
-  - **Vũ Đức Trọng Nhân** (Âm nhạc & Kỹ thuật) — [trongnhan.media@edu.vn](mailto:trongnhan.media@edu.vn)
-- **Ngày cập nhật gần nhất:** `17/11/2026`
